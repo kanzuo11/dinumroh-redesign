@@ -1,0 +1,233 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "title": "UMROH HEMAT",
+      "program": "16 HARI",
+      "subtitle": "UMROH MERDEKA SURABAYA LANGSUNG JEDDAH",
+      "route": "SUB-JED",
+      "duration": "16 hari",
+      "airline": "Lion Air",
+      "departure_date": "03 Agustus 2025",
+      "price": 33500000,
+      "price_formatted": "Rp 33.500.000",
+      "hotel_mekkah": "Nada Al Deeafah Setaraf",
+      "hotel_madinah": "Arjwan Aldiyafah Setaraf",
+      "featured": true,
+      "premium": false,
+      "status": "active",
+      "inclusions": [
+        "Tiket (SUB - JED | JED - SUB)",
+        "Visa Umroh & Asuransi Perjalanan",
+        "Manasik Umroh",
+        "Akomodasi Hotel (Makan 3x Sehari)",
+        "Handling KSA",
+        "Muthawwif & Tour Leader",
+        "Air Zam-Zam"
+      ],
+      "exclusions": [
+        "Pembuatan Paspor Jama'ah",
+        "Pengeluaran Pribadi Jama'ah"
+      ],
+      "flight_route": [
+        "Surabaya-Jeddah (Keberangkatan)",
+        "Jeddah-Surabaya (Kepulangan)"
+      ],
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "UMROH SPESIAL",
+      "program": "12 HARI",
+      "subtitle": "UMROH MAULID SURABAYA LANGSUNG JEDDAH",
+      "route": "SUB-JED",
+      "duration": "12 hari",
+      "airline": "Lion Air",
+      "departure_date": "30 Agustus 2025",
+      "price": 35250000,
+      "price_formatted": "Rp 35.250.000",
+      "hotel_mekkah": "Le Meridien Ajyad/Setaraf",
+      "hotel_madinah": "Al Ansar New Palace/Setaraf",
+      "featured": false,
+      "premium": false,
+      "status": "active",
+      "inclusions": [
+        "Tiket (SUB - JED | JED - SUB)",
+        "Visa Umroh & Asuransi Perjalanan",
+        "Manasik Umroh",
+        "Akomodasi Hotel (Makan 3x Sehari)",
+        "Handling KSA",
+        "Muthawwif & Tour Leader",
+        "Air Zam-Zam"
+      ],
+      "exclusions": [
+        "Pembuatan Paspor Jama'ah",
+        "Pengeluaran Pribadi Jama'ah"
+      ],
+      "flight_route": [
+        "Surabaya-Jeddah (Keberangkatan)",
+        "Jeddah-Surabaya (Kepulangan)"
+      ],
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "UMROH HEMAT",
+      "program": "12 HARI",
+      "subtitle": "UMROH MAULID SURABAYA LANGSUNG JEDDAH",
+      "route": "SUB-JED",
+      "duration": "12 hari",
+      "airline": "Lion Air",
+      "departure_date": "30 Agustus 2025",
+      "price": 31750000,
+      "price_formatted": "Rp 31.750.000",
+      "hotel_mekkah": "Al Miqat Ajyad/Setaraf",
+      "hotel_madinah": "Al Ansar New Palace/Setaraf",
+      "featured": false,
+      "premium": false,
+      "status": "active",
+      "inclusions": [
+        "Tiket (SUB - JED | JED - SUB)",
+        "Visa Umroh & Asuransi Perjalanan",
+        "Manasik Umroh",
+        "Akomodasi Hotel (Makan 3x Sehari)",
+        "Handling KSA",
+        "Muthawwif & Tour Leader",
+        "Air Zam-Zam"
+      ],
+      "exclusions": [
+        "Pembuatan Paspor Jama'ah",
+        "Pengeluaran Pribadi Jama'ah"
+      ],
+      "flight_route": [
+        "Surabaya-Jeddah (Keberangkatan)",
+        "Jeddah-Surabaya (Kepulangan)"
+      ],
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "UMROH PAKET A",
+      "program": "12 HARI",
+      "subtitle": "UMROH SPECIAL BY GARUDA SURABAYA-MADINAH",
+      "route": "SUB-MADINAH",
+      "duration": "12 hari",
+      "airline": "Garuda Indonesia",
+      "departure_date": "25 September 2025",
+      "return_info": "Kepulangan: JED-SUB",
+      "price": 37900000,
+      "price_formatted": "Rp 37.900.000",
+      "hotel_mekkah": "Al Jumeirah / Bintang 5",
+      "hotel_madinah": "Front Taibah / Bintang 5",
+      "featured": false,
+      "premium": true,
+      "status": "active",
+      "inclusions": [
+        "Tiket (SUB - Madinah / Jeddah - SUB)",
+        "Visa Umroh & Asuransi Perjalanan",
+        "Manasik Umroh",
+        "Akomodasi Hotel (Makan 3x Sehari)",
+        "Handling SUB / KSA",
+        "Muthawwif & Tour Leader",
+        "Air Zam-Zam"
+      ],
+      "exclusions": [
+        "Pembuatan Paspor Jama'ah",
+        "Pengeluaran Pribadi Jama'ah"
+      ],
+      "flight_route": [
+        "Surabaya-Madinah (Keberangkatan)",
+        "Jeddah-Surabaya (Kepulangan)"
+      ],
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "UMROH PAKET B",
+      "program": "12 HARI",
+      "subtitle": "UMROH SPECIAL BY GARUDA SURABAYA-MADINAH",
+      "route": "SUB-MADINAH",
+      "duration": "12 hari",
+      "airline": "Garuda Indonesia",
+      "departure_date": "25 September 2025",
+      "return_info": "Kepulangan: JED-SUB",
+      "price": 29900000,
+      "price_formatted": "Rp 29.900.000",
+      "hotel_mekkah": "Fajar Badi 4",
+      "hotel_madinah": "Royal Madinah",
+      "featured": false,
+      "premium": false,
+      "status": "active",
+      "inclusions": [
+        "Tiket (SUB - Madinah / Jeddah - SUB)",
+        "Visa Umroh & Asuransi Perjalanan",
+        "Manasik Umroh",
+        "Akomodasi Hotel (Makan 3x Sehari)",
+        "Handling SUB / KSA",
+        "Muthawwif & Tour Leader",
+        "Air Zam-Zam"
+      ],
+      "exclusions": [
+        "Pembuatan Paspor Jama'ah",
+        "Pengeluaran Pribadi Jama'ah"
+      ],
+      "flight_route": [
+        "Surabaya-Madinah (Keberangkatan)",
+        "Jeddah-Surabaya (Kepulangan)"
+      ],
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "company_info": {
+    "name": "PT Din Banyutengah",
+    "tagline": "Umrah & Haji Travel Specialist",
+    "ppiu": "912000640246200003",
+    "phone": "082139696817",
+    "whatsapp": "6282139696817",
+    "email": "arinsby@yahoo.com",
+    "website": "www.dinumroh.com",
+    "address": "JL. Deandles Banyutengah",
+    "operating_hours": "08:00 - 16:00 WIB",
+    "leader": {
+      "name": "H. SHOLIHUDDIN",
+      "title": "Pemimpin PT Din Banyutengah"
+    }
+  },
+  "features": [
+    {
+      "title": "Izin Resmi Kemenag",
+      "description": "PPIU: 912000640246200003",
+      "icon": "✓"
+    },
+    {
+      "title": "Berpengalaman",
+      "description": "Beroperasi sejak tahun 2020 dan telah melayani ribuan jamaah dengan amanah.",
+      "icon": "★"
+    },
+    {
+      "title": "Tiket Confirmed",
+      "description": "Tanggal keberangkatan pasti, karena Kami menjalin kerja sama dengan partner maskapai yang kredibel.",
+      "icon": "✈"
+    },
+    {
+      "title": "Hotel Confirmed",
+      "description": "Hotel yang Kami berikan 100% sesuai dengan brosur dan kesepakatan.",
+      "icon": "🏨"
+    },
+    {
+      "title": "Tour Leader",
+      "description": "Pembimbing ibadah Kami berpengalaman dan sabar.",
+      "icon": "👥"
+    },
+    {
+      "title": "Pesawat Non Transit",
+      "description": "Kami telah bekerja sama dengan berbagai macam maskapai ternama yang penerbangannya direct/langsung ke tanah suci.",
+      "icon": "🚀"
+    }
+  ]
+}
