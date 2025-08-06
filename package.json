@@ -1,0 +1,16 @@
+{
+  "name": "dinumroh-redesign",
+  "version": "1.0.0",
+  "description": "Modern redesign of PT Din Banyutengah Umrah travel website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=8000 --host=0.0.0.0",
+    "start": "live-server --port=8000 --host=0.0.0.0"
+  },
+  "keywords": ["umrah", "travel", "indonesia", "pilgrimage"],
+  "author": "PT Din Banyutengah",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
